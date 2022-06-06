@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/sam__neupane" target="blank"><img src="https://img.shields.io/twitter/follow/sam__neupane?logo=twitter&style=for-the-badge" alt="sam__neupane" /></a> </p>
 
-- 🌱 I’m currently involved in **Engineering**
+- 🌱 I’m currently involved in **Engineering** my thoughts
 
 - 👨‍💻 All of my projects are available at [https://neupanesamrat.com.np](https://neupanesamrat.com.np)
 
