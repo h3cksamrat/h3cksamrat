@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://neupanesamrat.com.np](https://neupanesamrat.com.np)
 
-- 💬 Ask me about **Node**
+- 💬 Ask me about **my thoughts**
 
 - 📫 How to reach me **samratneupane215@gmail.com**
 
