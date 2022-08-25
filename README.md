@@ -1,8 +1,3 @@
-<style>
-.social_icons {
-    margin: 0.5rem;
-}
-</style>
 # Hi 👋, I'm Samrat Neupane
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=h3cksamrat.h3cksamrat&left_color=grey&right_color=red)
 ### Computer Engineering Undergrad from Nepal
