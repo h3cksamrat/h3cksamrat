@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently involved in **Engineering** my thoughts
 - 👨‍💻 All of my projects are available at [https://neupanesamrat.com.np](https://neupanesamrat.com.np)
-- 📫 How to reach me **samrat@neupanesamrat.com.np**
+- 📫 How to reach me **[samrat@neupanesamrat.com.np](mailto:samrat@neupanesamrat.com.np)**
 
 ### Connect with me:
 
