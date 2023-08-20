@@ -17,11 +17,6 @@
 ### Languages and Tools:
 [![My Skills](https://skills.thijs.gg/icons?i=git,nodejs,js,ts,express,nestjs,react,next,linux,bash,mongodb,postgresql,python,css,html,docker,prisma,flask&theme=dark)](https://skills.thijs.gg)
 
-### Github Stats:
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=h3cksamrat&show_icons=true&theme=dark&locale=en&layout=compact" alt="h3cksamrat" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h3cksamrat&show_icons=true&locale=en&theme=dark" alt="h3cksamrat" /></p>
 
 
 
