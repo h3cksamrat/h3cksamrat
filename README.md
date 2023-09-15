@@ -15,7 +15,7 @@
 <br> <br> <br>
 
 ### Languages and Tools:
-[![My Skills](https://skills.thijs.gg/icons?i=git,nodejs,js,ts,express,nestjs,react,next,linux,bash,mongodb,postgresql,python,css,html,docker,prisma,flask&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?theme=dark&i=git,nodejs,js,ts,express,nestjs,react,next,linux,bash,mongodb,postgresql,python,css,html,docker,prisma,flask,fastapi,redis,nginx)](https://skills.thijs.gg)
 
 
 
